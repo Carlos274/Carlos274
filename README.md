@@ -3,6 +3,6 @@
 No momento estou aprendendo a programar.
 
 
-## Detalhes
+### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.app/apiusername=Carlos274_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Carlos274_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
